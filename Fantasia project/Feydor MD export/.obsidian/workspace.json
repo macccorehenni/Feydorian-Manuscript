@@ -1,0 +1,210 @@
+{
+  "main": {
+    "id": "e099f94a2feaf26e",
+    "type": "split",
+    "children": [
+      {
+        "id": "405a281abcfde3aa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4e224f4d69d16255",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Feydor - Export/Events/Pilgrimage to the Memorial of the Keeper of the Tree.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pilgrimage to the Memorial of the Keeper of the Tree"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "aa7325a655d85bdb",
+    "type": "split",
+    "children": [
+      {
+        "id": "87c426c7ad2bd220",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f4844fcc9ccc7458",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "22f24e3a2186f020",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "69224b626e15e23d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 347.5
+  },
+  "right": {
+    "id": "f7e723ac3586c960",
+    "type": "split",
+    "children": [
+      {
+        "id": "6b166b7a197cff60",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6d28653fd2ef5d95",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Pilgrimage to the Memorial of the Keeper of the Tree.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Pilgrimage to the Memorial of the Keeper of the Tree"
+            }
+          },
+          {
+            "id": "6b7e7f2c739ba1ff",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Pilgrimage to the Memorial of the Keeper of the Tree.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Pilgrimage to the Memorial of the Keeper of the Tree"
+            }
+          },
+          {
+            "id": "492e086329298022",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "1ef8c932cc3c3d25",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Pilgrimage to the Memorial of the Keeper of the Tree.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Pilgrimage to the Memorial of the Keeper of the Tree"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "4e224f4d69d16255",
+  "lastOpenFiles": [
+    "Feydor - Export/Chapters/The One Beneath the Tree.md",
+    "Feydor - Export/Feydor - Export/Myths-Legends-Stories/Danche-s Vision to the Queen.md",
+    "Feydor - Export/Feydor - Export/Chapters/4.md",
+    "Feydor - Export/Feydor - Export/Afflictions-Boons-Conditions/Blessing of Danche-s Choice.md",
+    "Feydor - Export/Feydor - Export/Afflictions-Boons-Conditions",
+    "Feydor - Export/Feydor - Export/Events/Pilgrimage to the Memorial of the Keeper of the Tree.md",
+    "Feydor - Export/Feydor - Export/Events/Feybloom Festival.md",
+    "Feydor - Export/Feydor - Export/Events",
+    "Feydor - Export/Feydor - Export/Myths-Legends-Stories/Origins of Feydorian Feybloom.md",
+    "Feydor - Export/Feydor - Export/Myths-Legends-Stories",
+    "Feydor - Export/Feydor - Export/Locations-Geography/Memorial of the Tree Keeper.md",
+    "Feydor - Export/Feydor - Export/Locations-Geography/Thaylmor.md",
+    "Feydor - Export/Feydor - Export/Characters/Yaereene Inphyra.md",
+    "Feydor - Export/Feydor - Export/Characters",
+    "Feydor - Export/Feydor - Export/Species-Races-Flora-Fauna/Feybloom.md",
+    "Feydor - Export/Feydor - Export/Species-Races-Flora-Fauna",
+    "Feydor - Export/Feydor - Export/Locations-Geography/_Feydor Forest.md",
+    "Feydor - Export/Feydor - Export/Locations-Geography",
+    "Feydor - Export/Feydor - Export/Chapters/The One Beneath the Tree.md",
+    "Feydor - Export/Feydor - Export/Chapters/_Stories from Feyrun.md",
+    "Feydor - Export/Feydor - Export/Chapters/Into the Rabbit Hole.md",
+    "Feydor - Export/Feydor - Export/Chapters/Bloom of Fate.md",
+    "Feydor - Export/Feydor - Export/Chapters",
+    "Feydor - Export/Feydor - Export",
+    "Feydor - Export/Chapters/Into the Rabbit Hole.md",
+    "Feydor - Export/Chapters/Bloom of Fate.md",
+    "Feydor - Export/Characters/Yaereene Inphyra.md",
+    "Feydor - Export/Events/Feybloom Festival.md",
+    "Feydor - Export/Chapters/_Stories from Feyrun.md",
+    "Feydor - Export/Afflictions-Boons-Conditions/Blessing of Danche-s Choice.md",
+    "Feydor - Export/Myths-Legends-Stories/Danche-s Vision to the Queen.md",
+    "Feydor - Export/Chapters/4.md",
+    "Feydor - Export/Afflictions-Boons-Conditions",
+    "Feydor - Export/Events/Pilgrimage to the Memorial of the Keeper of the Tree.md",
+    "Feydor - Export/Events",
+    "Feydor - Export/Myths-Legends-Stories/Origins of Feydorian Feybloom.md"
+  ]
+}

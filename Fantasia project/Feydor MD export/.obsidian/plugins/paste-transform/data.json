@@ -1,0 +1,10 @@
+{
+  "patterns": [
+    "\\*\\*"
+  ],
+  "replacers": [
+    " _ "
+  ],
+  "settingsFormatVersion": 1,
+  "debugMode": false
+}
